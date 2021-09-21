@@ -23,11 +23,11 @@ set cursorline
 set cursorlineopt=number
 
 " auto parenthesis
-inoremap { {}<Esc>hli
-inoremap ( ()<Esc>hli
-inoremap [ []<Esc>hli
-inoremap ' ''<Esc>hli
-inoremap " ""<Esc>hli
+"inoremap { {}<Esc>hli
+"inoremap ( ()<Esc>hli
+"inoremap [ []<Esc>hli
+"inoremap ' ''<Esc>hli
+" inoremap <Esc>hli
 
 
 set showcmd             " show command in bottom bar
