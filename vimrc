@@ -32,7 +32,7 @@ inoremap " ""<Esc>hli
 
 set showcmd             " show command in bottom bar
 set laststatus=2        " Show the status line at the bottom
-set mouse+=a            " A necessary evil, mouse support
+"set mouse+=a            " A necessary evil, mouse support
 set ttyfast             " Improve redrawing
 
 augroup CursorLineOnlyInActiveWindow
