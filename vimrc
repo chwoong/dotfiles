@@ -1,6 +1,7 @@
 if has("syntax")
     syntax on
 endif
+highlight Visual cterm=bold ctermbg=DarkGray ctermfg=NONE
 set number
 set relativenumber
 set tabstop=4
